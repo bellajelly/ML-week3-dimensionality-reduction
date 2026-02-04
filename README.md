@@ -2,7 +2,7 @@
 
 **Author:** Bell Jelly  
 **Course:** Machine Learning  
-**Institution:** [Your Institution]  
+**Institution:** DMACC
 **Date:** February 2026
 
 ---
@@ -83,7 +83,7 @@ week3-dimensionality-reduction/
 
 ## Running the Analysis
 
-### Option 1: Google Colab (Recommended)
+###Google Colab: I decided to use Google Colab for ease of troubleshooting
 
 1. **Open the notebook in Colab:**
    - Go to [Google Colab](https://colab.research.google.com)
@@ -97,56 +97,22 @@ week3-dimensionality-reduction/
    - Run all analyses
    - Generate visualizations
 
-3. **No local setup required!**
-
-### Option 2: Local Jupyter
-
-**Prerequisites:**
-- Python 3.8+
-- Jupyter Notebook or JupyterLab
-
-**Installation:**
-
-```bash
-# Clone the repository
-git clone https://github.com/bellajelly/week3-dimensionality-reduction.git
-cd week3-dimensionality-reduction
-
-# Install required packages
-pip install numpy pandas matplotlib seaborn scikit-learn networkx
-
-# Launch Jupyter
-jupyter notebook dimensionality_reduction_analysis.ipynb
-```
-
-**Required packages:**
-- `numpy` - Numerical computing
-- `pandas` - Data manipulation
-- `matplotlib` - Visualization
-- `seaborn` - Statistical visualization
-- `scikit-learn` - PCA, t-SNE, StandardScaler
-- `networkx` - Network analysis
-
----
 
 ## Key Results
 
-*[To be completed after running the analysis]*
-
 ### Option A: Regulatory Targets
-- PCA explained variance: XX%
-- Distinct clusters observed: [Yes/No]
-- Biological interpretation: [Summary]
+- PCA explained variance: 24%
+- Distinct clusters observed: Not really, only one main one with some outliers
+- Biological interpretation: The data and this method of analysis suggests that
+  the regulatory genes have different targets/there isn't much overlap with targets
 
 ### Option B: Network Topology
-- PCA explained variance: XX%
+- PCA explained variance: 59%
 - Hub genes identified: [List key genes]
-- Network structure revealed: [Summary]
+- Network structure revealed: Smaller, local clusters suggesting small regulatory networks within the global network
 
 ### Comparison
-- Do the two approaches give similar or different clustering?
-- Which genes appear important in one view but not the other?
-- Example: lin-42 (clock gene homolog) position in each analysis
+<img width="1789" height="1589" alt="image" src="https://github.com/user-attachments/assets/3308cbd1-10b1-4cec-b485-6c2fb48f0e2e" />
 
 ---
 
@@ -234,8 +200,6 @@ See [`ethical_reflection.md`](ethical_reflection.md) for detailed discussion of:
 ---
 
 ## References
-
-*Add relevant papers and resources:*
 - Original dataset source
 - PCA and t-SNE methodology papers
 - C. elegans gene regulation reviews
@@ -245,20 +209,10 @@ See [`ethical_reflection.md`](ethical_reflection.md) for detailed discussion of:
 
 ## Acknowledgments
 
-- Course instructor and TAs
+- Course instructor
 - Anthropic's Claude AI for guidance on conceptual understanding
-- C. elegans research community for dataset
+- C. elegans research community and Kaggle community for dataset
 
 ---
 
-## Contact
-
-Bell Jelly  
-GitHub: [@bellajelly](https://github.com/bellajelly)
-
----
-
-## License
-
-This project is for educational purposes. Dataset used under original publication's terms.
 
