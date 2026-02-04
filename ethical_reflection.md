@@ -49,13 +49,11 @@ In my sleep research with C. elegans, genes involved in homeostatic regulation m
 - Did standardization choices affect which features dominated?
 
 **Color and scale choices:**
-<img width="854" height="350" alt="image" src="https://github.com/user-attachments/assets/ec1be83c-ced2-4744-b944-a8f2afb10a99" />
+<img width="1789" height="1589" alt="image" src="https://github.com/user-attachments/assets/1a0cc82e-0a5c-49ca-89ee-ff0928cdb97d" />
+Top: Dimensionality Reduction based on gene regulatory network comparison
+Bottom: Dimensionality Reduction based on Network feature compariso
 
-- If we colored points by network degree, hub genes would stand out
-- If we colored by expression level, different patterns would emerge
-- The choice of what to emphasize guides interpretation
-
-**If I showed only the t-SNE plot to a collaborator, they might see distinct "gene programs" when the reality is more continuous. This could bias experimental design or funding decisions.
+**If I showed only the PCA plot to a collaborator, they might see very little clusters, suggesting few variation. This could bias experimental design or funding decisions.
 
 ---
 
