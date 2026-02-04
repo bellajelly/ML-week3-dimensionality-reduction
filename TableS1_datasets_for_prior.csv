@@ -1,0 +1,169 @@
+Genotype,Age,Strain,Perturbation type,Data type,Data source,Source,Comments
+aak-2,day-4 adult,N2,See comment,microarray,GSE77111,"Hou et al., 2016",overexpression
+acs-3,young adult,N2,mutant,microarray,GSE48605,"Ward et al., 2014",
+age-1,young adult,N2,mutant,microarray,GSE18200,"Iser et al., 2011",
+ash-2,young adult,N2,mutant,microarray,GSE61094,"Robert et al., 2014",dissected germline
+bcat-1,young adult,N2,RNAi,RNA-Seq,GSE60672,"Mansfeld et al., 2015","has adult age of 1, 10 and 20 days data"
+c34b2.8,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+cav-1,day-1 adult,N2,RNAi,RNA-Seq,GSE100045,"Roitenburg et al., 2017",
+cco-1,day-1 adult,N2,RNAi,RNA-Seq,GSE78990,"Merkwirth et al., 2016",
+cde-1,young adult,N2,mutant,microarray,GSE18202,"van Wolfswinkel et al., 2009",germline
+ced-4,young adult,N2,mutant,microarray,GSE54024,"Yee et al., 2014",
+cep-1,young adult,N2,RNAi,microarray,Supplementary table,"Baruah et al., 2014",
+cep-1,young adult,N2,mutant,microarray,Supplementary table,"Greiss et al., 2008",
+cgh-1,young adult,N2,RNAi,microarray,GSE33084,"Scheckel et al., 2012",
+cgh-1,young adult,N2,mutant,microarray,GSE33084,"Scheckel et al., 2012",
+clk-1,young adult,N2,mutant,microarray,Supplementary table,"Christina et al., 2009",
+cpf-1,young adult,N2,RNAi,RNA-Seq,GSE79822,"Garrido-Lecca et al., 2016",
+crh-1,L4,N2,mutant,microarray,GSE40809,"Ma et al., 2012",https://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-40809/samples/
+csr-1,young adult,N2,RNAi,germline RNA-Seq,GSE67954,"Campbell et al., 2015",
+cyc-1,young adult,N2,RNAi,microarray,Supplementary table,"Christina et al., 2009",
+d2030.4,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+daf-10,young adult,N2,mutant,microarray,GSE41943,"Gaglia et al., 2012",
+daf-12,L4,N2,mutant,qPCR,Supplementary table,"Shostak et al., 2004",
+daf-12,L4,N2,mutant,microarray,GSE41661,"Ma et al., 2012",https://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-41661/samples/
+daf-16,young adult,N2,mutant,RNA-Seq,GSE72426,"Chen et al., 2015",
+daf-16,day-1 adult,N2,mutant,RNA-Seq,GSE70117,"Heimbucher et al., 2015",
+daf-16,day-4 adult,N2,mutant,microarray,GSE27677,"Uno et al., 2013",
+daf-16,young adult,N2,mutant,microarray,GSE62297,"Zhang et al., 2015",
+daf-16,young adult,N2,mutant,microarray,Supplementary table,"Walther et al., 2015",
+daf-16,young adult,N2,mutant,RNA-Seq,PRJEB8029,"Essers et al., 2014",
+daf-2,day-4 adult,N2,mutant,microarray,GSE77111,"Hou et al., 2016",
+daf-2,young adult,N2,mutant,RNA-Seq,GSE76946,"Knutson et al., 2016",
+daf-2,day-1 adult,N2,mutant,RNA-Seq,GSE94077,"Son et al., 2017",
+daf-2,young adult,N2,mutant,RNA-Seq,GSE81409,"Sonoda et al., 2016",
+daf-2,young adult,N2,mutant,microarray,GSE30725,"Rizki et al., 2011",
+daf-2,day-1 adult,N2,RNAi,RNA-Seq,GSE100045,"Roitenburg et al., 2017",
+daf-2,young adult,N2,mutant & RNAi,microarray,Supplementary table,"Murphy et al., 2003",
+daf-2,young adult,N2,mutant,microarray,GSE52340,"Chen et al., 2013",
+daf-2,young adult,N2,mutant,microarray,Supplementary table,"Walther et al., 2015",
+daf-2,young adult,N2,mutant,RNA-Seq,PRJEB8029,"Essers et al., 2014",
+daf-2,young adult,N2,mutant,RNA-Seq,GSE36041,"Zarse et al., 2012",
+daf-2,young adult,N2,mutant,microarray,GSE81409,"Sonada et al., 2016",
+daf-9,L4,N2,mutant,microarray,GSE41661,"Ma et al., 2012",https://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-41661/samples/
+dapk-1,young adult,N2,mutant,phenotype quantitation,Publication data,"Tong et al., 2009",
+dcr-1,young adult,N2,mutant,microarray,E-MEXP-956,"Welker et al., 2007",
+deps-1,young adult,N2,RNAi,microarray,GSE9993,"Spike et al., 2008",disssected gonad
+dev-1,day-3 adult,N2,RNAi,microarray,GSE83722,"Kim et al., 2016",
+dkf-2,young adult,N2,See comment,microarray,GSE12456,"Ren et al., 2009",increased DKF-2 activity by pathogen
+dpl-1,young adult,N2,mutant,microarray,GSE5069,"Leacock et al., 2006",
+dpl-1,young adult,N2,mutant,microarray,GSE5071,"Chi et al., 2006",disssected gonad
+dpy-21,young adult,N2,mutant,RNA-seq,GSE67650,"Kramer et al., 2015",
+dpy-27,young adult,N2,mutant,RNA-seq,GSE67650,"Kramer et al., 2015",
+dys-1,day-2 adult,N2,mutant,qPCR,Supplementary table,"Towers et al., 2006",
+eat-2,young adult,N2,mutant,RNA-Seq,GSE55988,"Heestand et al., 2013",
+eat-2,day-2 adult,N2,mutant,microarray,GSE64336,"Calvert et al., 2016",
+efl-1,young adult,N2,mutant,microarray,GSE5069,"Leacock et al., 2006",
+efl-1,young adult,N2,mutant,microarray,GSE5071,"Chi et al., 2006",disssected gonad
+egl-9,young adult,N2,Mutant,RNA-Seq,GSE97355,"Albores et al., 2017",
+elt-2,"day-2,3 adult",N2,RNAi,microarray,GSE63846,"Block et al., 2015",
+elt-2,young adult,N2,mutant,microarray,GSE63846,"Twumasi-Boateng et al., 2012",
+eor-1,day-2 adult,N2,mutant,microarray,Supplementary table,"Lui et al., 2011",
+ets-4,young adult,N2,RNAi,RNA-Seq,GSE75160,"Habacher et al., 2016",
+fer-1,young adult,N2,mutant,microarray,GSE16753,"Krajacic et al., 2009",
+flcn-1,young adult,N2,mutant,microarray,GSE43207,"Gharbi et al., 2013",
+fog-2,young adult,N2,mutant,RNA-seq,GSE67650,"Kramer et al., 2015",
+fshr-1,young adult,N2,mutant,microarray,GSE72029,"Miller et al., 2015",
+gas-1,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+gas-1,young adult,N2,mutant,microarray,GSE9967,"Falk et al., 2008",
+gas-1,young adult,N2,mutant,microarray,GSE66680,"McCormack et al., 2015",
+gld-1,young adult,N2,mutant,microarray,GSE33084,"Scheckel et al., 2012",
+gld-1,day-3 adult,N2,RNAi,RNA-Seq,GSE65406,"Gomes et al., 2016",
+gld-2,mixed of L4 and young adult,N2,RNAi,RNA-Seq,GSE57993,"Elewa et al., 2015",
+gld-2,young adult,N2,RNAi,RNA-Seq,GSE58918,"Nousch et al., 2014",
+gld-3,mixed of L4 and young adult,N2,RNAi,RNA-Seq,GSE57993,"Elewa et al., 2015",
+gld-4,young adult,N2,RNAi,RNA-Seq,GSE58918,"Nousch et al., 2014",
+glh-1,day-1 adult,N2,mutant,RNA-Seq,GSE76946,"Knutson et al., 2016",dissected gonad
+glp-1,young adult,N2,mutant,microarray,GSE15159,"Boyd et al., 2010",
+glp-1,young adult,N2,mutant,microarray,GSE43864,"Gracida et al., 2013",
+glp-1,young adult,N2,mutant,microarray,GSE21531,"Waters et al., 2010",
+glp-1,day-1 adult,N2,mutant,RNA-Seq,GSE63075,"Steinbaugh et al., 2015",
+h3k36,young adult,N2,CRISPR,western blot,GSE93086,"Amendola et al., 2017",
+hbl-1,L4,N2,mutant,microarray,Publication data,"Niwa et al., 2009",overexpression
+hcf-1,young adult,N2,mutant,microarray,GSE30725,"Rizki et al., 2011",
+hif-1,young adult,N2,Mutant,RNA-Seq,GSE97355,"Albores et al., 2017",
+his-24,mixed of L4 and young adult,N2,mutant,microarray,"GSE33339, GSE25714","Studencka et al., 2012",
+hlh-29,young adult,N2,mutant,microarray,GSE65417,"Thanh et al., 2013",
+hpl-1,mixed of L4 and young adult,N2,mutant,microarray,"GSE33339, GSE25714","Studencka et al., 2012",microaray and chip in L4+ adult
+hpl-2,mixed of L4 and young adult,N2,mutant,microarray,"GSE33339, GSE25714","Studencka et al., 2012",
+hrde-1,young adult,N2,mutant,RNA-Seq,GSE74405,"Ni et al., 2016",
+hsf-1,day-3 adult,N2,RNAi,microarray,GSE83722,"Kim et al., 2016",
+hsp-6,day-3 adult,N2,RNAi,microarray,GSE83722,"Kim et al., 2016",
+hyl-2,young adult,N2,mutant,RNA-Seq,GSE83887,"Ladage et al., 2016",
+idr-1,L4,N2,RNAi,microarray,GSE40252,"Chamoli et al., 2014",mekk-3/idr-1 RNAi; ***pha-4 target
+ifg-1,day-3 adult,N2,RNAi,microarray,GSE28665,"Rogers et al., 2011",
+isp-1,young adult,N2,mutant,microarray,GSE54024,"Yee et al., 2014",
+isp-1,young adult,N2,mutant,microarray,Supplementary table,"Christina et al., 2009",
+isp-1,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+jmjd-1.2,day-1 adult,N2,mutant,RNA-Seq,GSE78990,"Merkwirth et al., 2016",
+jmjd-5,young adult,N2,CRISPR,RNA-Seq,GSE93086,"Amendola et al., 2017",
+Jun-1,day-4 adult,N2,mutant,microarray,GSE27677,"Uno et al., 2013",
+kgb-1,day-4 adult,N2,mutant,microarray,GSE27677,"Uno et al., 2013",
+kin-1,L4,N2,mutant,microarray,GSE40809,"Ma et al., 2012",https://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-40809/samples/
+let-60,young adult,N2,RNAi,microarray,Supplementary table,"Romagnolo et al., 2002",
+lin-28,day-4 adult,N2,RNAi,RNA-Seq,GSE86077,"Wang et al., 2017",
+lin-35,young adult,N2,mutant,microarray,GSE5069,"Leacock et al., 2006",
+lin-35,young adult,N2,mutant,microarray,GSE5071,"Chi et al., 2006",disssected gonad
+lin-35,L4,N2,mutant,microarray,GSE6547,"Kirienko et al., 2007",
+lin-54,young adult,N2,mutant,microarray,GSE52064,"Tabuchi et al., 2014",dissected germline. also have double mutant
+math-33,day-1 adult,N2,mutant,RNA-Seq,GSE70117,"Heimbucher et al., 2015",
+mes-2,young adult,N2,mutant,microarray,GSE38158,"Gaydos et al., 2012",dissected adult germline
+mes-2,young adult,N2,mutant,microarray,GSE49395,"Seelk et al., 2016",
+mes-4,young adult,N2,mutant,microarray,GSE52064,"Tabuchi et al., 2014",dissected germline
+mes-4,young adult,N2,mutant,microarray,GSE5454,"Bender et al., 2006",dissected gonad
+mes-4,young adult,N2,mutant,microarray,GSE38158,"Gaydos et al., 2012",dissected adult germline
+mes-6,young adult,N2,mutant,microarray,GSE49395,"Seelk et al., 2016",
+metr-1,young adult,N2,RNAi,microarray,GSE43952,"Watson et al., 2013",
+mev-1,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+mex-5,mixed of L4 and young adult,N2,RNAi,RNA-Seq,GSE57993,"Elewa et al., 2015",
+mex-6,mixed of L4 and young adult,N2,RNAi,RNA-Seq,GSE57993,"Elewa et al., 2015",
+mir-243,young adult,N2,mutant,microarray,GSE20558,"Correa et al., 2010",
+mir-34,young adult,N2,,microarray,GSE76413,"Isik et al., 2016",overexpression
+mir-60,young adult,N2,Mutant,RNA-Seq,GSE83239,"Kato et al., 2016",
+mtss-1,day-1 adult,N2,RNAi,microarray,Supplementary table,"Sugimoto et al., 2008",
+nac,day-2 adult,N2,RNAi,microarray,GSE63928,"Gamerdinger et al., 2015","icd-1, icd-2"
+nduf-6,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+nhr-114,Young adult,N2,RNAi,microarray,GSE43864,"Gracida et al., 2013",
+nhr-25,young adult,N2,RNAi,microarray,GSE48605,"Ward et al., 2014",
+nhr-62,young adult,N2,mutant,RNA-Seq,GSE55988,"Heestand et al., 2013",
+nhr-64,L4,N2,RNAi,qPCR,Publication data,"Liang et al., 2010",
+nuo-5,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+nuo-6,young adult,N2,mutant,microarray,GSE54024,"Yee et al., 2014",
+oga-1,L4,N2,mutant,microarray,GSE18132,"Love et al., 2010",
+p-granule,young adult,N2,RNAi,germline RNA-Seq,GSE67954,"Campbell et al., 2015","p-granule RNAi --simultaneously target pgl-1, pgl-3, glh-1 and glh-4"
+pcca-1,young adult,N2,RNAi,microarray,GSE43952,"Watson et al., 2013",
+pdf-1,young adult,N2,mutant,microarray,GSE26228,"Temmerman et al., 2010",
+pgl-1,day-1 adult,N2,mutant,RNA-Seq,GSE76946,"Knutson et al., 2016",dissected gonad
+plep-1,young adult,N2,RNAi,RNA-Seq,GSE68351,"Noble et al., 2015",
+pmk-1,young adult,N2,mutant,RNA-Seq,GSE41205,"Mertenskötter et al., 2013",under heat stress
+pos-1,mixed of L4 and young adult,N2,RNAi,RNA-Seq,GSE57993,"Elewa et al., 2015",
+prde-1,young adult,N2,mutant,microarray,GSE49220,"Weick et al., 2014",Study focued on miRNA
+prg-1,young adult,N2,mutant,microarray,GSE49220,"Weick et al., 2014",Study focued on miRNA
+rege-1,young adult,N2,RNAi,RNA-Seq,GSE75160,"Habacher et al., 2016",
+rhy-1,young adult,N2,Mutant,RNA-Seq,GSE97355,"Albores et al., 2017",
+rsks-1,day-2 adult,N2,mutant,microarray,GSE52340,"Chen et al., 2013","have double and triple mutant of daf-16, daf-2, rsks-1"
+rsks-1,young adult,N2,mutant,microarray,GSE77111,"Hou et al., 2016",
+sams-1,mixed of L4 and young adult,N2,RNAi,microarray,GSE70693,"Ding et al., 2015",
+sbp-1,mixed of L4 and young adult,N2,RNAi,microarray,GSE70692,"Ding et al., 2015",
+set-1,young adult,N2,mutant,RNA-seq,GSE67650,"Kramer et al., 2015",
+set-2,young adult,N2,mutant,microarray,GSE61094,"Robert et al., 2014",dissected germline
+set-25,young adult,N2,Mutant,RNA-Seq,GSE83528,"Klosin et al., 2017",
+set-4,young adult,N2,mutant,RNA-seq,GSE67650,"Kramer et al., 2015",
+skn-1,day-1 adult,N2,RNAi,RNA-Seq,GSE63075,"Steinbaugh et al., 2015",
+skn-1,L4,N2,mutant,microarray,Supplementary table,"Oliviera et al., 2009",
+smg-2,day-1 adult,N2,mutant,RNA-Seq,GSE94077,"Son et al., 2017",
+smg-2,day-3 adult,N2,RNAi,microarray,Supplementary table,"Longman et al., 2013",
+sun-1,young adult,N2,mutant,RNA-Seq,GSE76773,"Daryabeigi et al., 2016",
+tax-6,young adult,N2,RNAi,microarray,GSE77111,"Hou et al., 2016",
+tdp-1,young adult,N2,mutant,RNA-Seq,GSE61581,"Saldi et al., 2014",
+unc-120,young adult,N2,mutant,microarray,GSE31602,"Steiner et al., 2012",muscle specific
+unc-120,young adult,N2,mutant,microarray,GSE31602,"Steiner et al., 2012",
+unc-62,day-4 adult,N2,RNAi,RNA-seq,GSE39574,"Nostrand et al., 2013",
+vhl-1,young adult,N2,Mutant,RNA-Seq,GSE97355,"Albores et al., 2017",
+wdr-5,day-1 adult,N2,mutant,microarray,GSE31043,"Greer et al., 2011",
+wdr-5,day-2 adult,N2,mutant,microarray,GSE31043,"Greer et al., 2011",transgenerational
+wdr-5.1,young adult,N2,mutant,microarray,GSE61094,"Robert et al., 2014",dissected germline
+xbp-1,day-1 adult,N2,mutant,microarray,GSE20148,"Henis-Korenblit et al., 2010",
+xpa-1,young adult,N2,mutant,microarray,GSE15159,"Boyd et al., 2010",
+y56a3a.19,young adult,N2,RNAi,microarray,GSE9897,"Falk et al., 2008",
+zip-2,young adult,N2,RNAi,microarray,GSE50513,"Estes et al., 2010",
