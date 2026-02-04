@@ -16,16 +16,14 @@ This reflection explores the ethical implications of applying dimensionality red
 
 ### Information Loss and Selective Visibility
 
-[*Complete this section after running your analysis. Consider:*]
-
 **Variance-based bias:**
 - PCA prioritizes features with high variance, but what about genes that are:
   - Consistently important across conditions (low variance, high structural importance)?
   - Critical for network integrity but not highly expressed (high betweenness, low expression)?
-- When we reduce 19,185 dimensions to 2, we retain only XX% of variance (fill in from your results)
-- The remaining XX% might contain genes crucial for [specific example from your field]
+- When we reduce 19,185 dimensions to 2, we retain only 24% of variance
+- The remaining 76% might contain genes crucial for locomotion behavior and feeding behavior, which we are missing here
 
-**Example from neuroscience:** In my sleep research with C. elegans, genes involved in homeostatic regulation might show low variance because they're tightly controlled, but their dysregulation could be catastrophic. Dimensionality reduction might hide these "stable but essential" genes.
+In my sleep research with C. elegans, genes involved in homeostatic regulation might show low variance because they're tightly controlled, but their dysregulation could be catastrophic. Dimensionality reduction might hide these "stable but essential" genes.
 
 **Structural vs. Functional bias:**
 - Option A (regulatory targets) reveals functional modules but might miss structural bottlenecks
@@ -46,17 +44,18 @@ This reflection explores the ethical implications of applying dimensionality red
 - Distance between clusters in t-SNE has no meaning, but viewers naturally interpret proximity
 
 **Parameter sensitivity:**
-[*After running your analysis, discuss:*]
 - How did choosing perplexity=30 affect t-SNE results?
 - What if we used 2 vs 5 vs 10 principal components in PCA?
 - Did standardization choices affect which features dominated?
 
 **Color and scale choices:**
+<img width="854" height="350" alt="image" src="https://github.com/user-attachments/assets/ec1be83c-ced2-4744-b944-a8f2afb10a99" />
+
 - If we colored points by network degree, hub genes would stand out
 - If we colored by expression level, different patterns would emerge
 - The choice of what to emphasize guides interpretation
 
-**Example:** If I showed only the t-SNE plot to a collaborator, they might see distinct "gene programs" when the reality is more continuous. This could bias experimental design or funding decisions.
+**If I showed only the t-SNE plot to a collaborator, they might see distinct "gene programs" when the reality is more continuous. This could bias experimental design or funding decisions.
 
 ---
 
@@ -65,7 +64,7 @@ This reflection explores the ethical implications of applying dimensionality red
 ### What Gets Lost When We Reduce Dimensions
 
 **The "thalamus problem":**
-Using my earlier analogy, genes with high betweenness centrality (like the thalamus in neural networks) might not have high variance across conditions, but their removal could fragment the network. Dimensionality reduction that prioritizes variance might render these genes invisible.
+Using my earlier analogy, genes with high betweenness centrality (like the thalamus in brain neural networks) might not have high variance across conditions, but their removal could fragment the network. Dimensionality reduction that prioritizes variance might render these genes invisible.
 
 **Example scenarios:**
 - A gene with low out-degree that connects two otherwise separate functional modules
@@ -73,7 +72,6 @@ Using my earlier analogy, genes with high betweenness centrality (like the thala
 - Redundant pathways that provide robustness (each pathway individually shows low importance)
 
 **From my research:** 
-[*Fill in with specific example from your work*]
 In C. elegans sleep recovery, certain genes might show minimal expression changes but be critical for coordinating the recovery response. If we reduce dimensions based on differential expression alone, we lose these coordinators.
 
 ---
@@ -86,7 +84,7 @@ In C. elegans sleep recovery, certain genes might show minimal expression change
 - A computer scientist might prioritize computational efficiency (fewer features)
 - A molecular biologist might prioritize functional annotation
 - A systems biologist might prioritize network structure
-- A clinician might prioritize druggability
+- A clinician might prioritize drug targeting
 
 **My proposal for improvement:**
 1. **Multi-view dimensionality reduction:** Combine Option A and Option B simultaneously
@@ -187,14 +185,12 @@ Based on this analysis, I propose these guidelines for using dimensionality redu
 
 ### What I Learned
 
-[*Complete after finishing your analysis*]
-
 Through this project, I came to appreciate that dimensionality reduction is not just a technical tool but an ethical choice. Every time we reduce dimensions, we make decisions about:
 - What patterns matter
 - What information can be discarded
 - How we present findings to others
 
-My neuroscience background helped me see parallels: just as brain lesion studies can be misleading about function (damage ≠ function), dimensionality reduction can be misleading about importance (low variance ≠ unimportant).
+My neuroscience background helped me see parallels: just as brain lesion studies can be misleading about function (damage != function), dimensionality reduction can be misleading about importance (low variance != unimportant).
 
 ### Future Commitments
 
@@ -208,13 +204,9 @@ In my future work:
 
 ## References
 
-*Add relevant papers on dimensionality reduction, gene regulatory networks, and research ethics*
 
+Claude AI
+Google Collab
+Kaggle Dataset: uploaded to Github
 ---
-
-## Discussion Questions for Peer Review
-
-1. Did I adequately address how different stakeholders might interpret dimensionality reduction differently?
-2. Are there ethical concerns I missed?
-3. How would you improve the methodology to reduce bias?
 
